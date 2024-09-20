@@ -11,10 +11,10 @@
 
 `git clone --recursive https://github.com/cozycapybaragames/kha-starter`
 
-1. Töröld a `.git` mappát, hogy ne próbáld módosítani ezt a repo-t
+4. Töröld a `.git` mappát, hogy ne próbáld módosítani ezt a repo-t
 	- Ajánlott törlés után csinálni egy saját Git repot!
 
-1. Nyisd meg a klónolt mappát VSCode-ban és kezdj progizni! :)
+5. Nyisd meg a klónolt mappát VSCode-ban és kezdj progizni! :)
 
 ### Hasznos tudnivalók
 

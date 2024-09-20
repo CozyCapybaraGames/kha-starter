@@ -7,11 +7,14 @@
 1. Legyen telepítve a *Kha Extension Pack* kiegészítő
 ![alt text](image.png)
 
-3. Klónold a repo-t, almodulokkal együtt:
+1. Klónold a repo-t, almodulokkal együtt (**ez lehet lesz egy-két perc**):
 
 `git clone --recursive https://github.com/cozycapybaragames/kha-starter`
 
-4. Nyisd meg a klónolt mappát VSCode-ban és kezdj progizni! :)
+1. Töröld a `.git` mappát, hogy ne próbáld módosítani ezt a repo-t
+	- Ajánlott törlés után csinálni egy saját Git repot!
+
+1. Nyisd meg a klónolt mappát VSCode-ban és kezdj progizni! :)
 
 ### Hasznos tudnivalók
 
